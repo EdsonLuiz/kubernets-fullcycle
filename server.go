@@ -65,6 +65,7 @@ func Hello(w http.ResponseWriter, r *http.Request) {
         <h1>Hello World! 🌍</h1>
         <p>Este é um HTML5 para teste</p>
         <div class="emoji">✨</div>
+        <p>Version 2.0</p>
     </div>
 </body>
 </html>`
