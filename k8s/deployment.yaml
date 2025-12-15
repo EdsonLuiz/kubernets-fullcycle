@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: hello-go
-          image: edsonluiz/hello-go:1.0
+          image: edsonluiz/hello-go:2.0
           imagePullPolicy: Always
           ports:
             - containerPort: 80
